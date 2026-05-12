@@ -38,4 +38,4 @@ Before running the project, make sure you have:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/map-distance-app.git
+git clone https://github.com/AlishJavaid/map-distance-app.git
